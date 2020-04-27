@@ -1,9 +1,11 @@
-# GAN_new_renaissance_art
+## GAN_new_renaissance_art
 
 This is the GANs model that we have created using input images from WikiArts.org (10,5k images in renaissance and baroque style). This is Keras based GAN.
 
 This repository contains sample code which includes resizing of the pictures to 128x128, discriminator, generator and includes running function of Generative adversarial network.
 You can view “GAN_new_renaissance_art” directly on github, or clone the repository, install the dependencies listed and play with code locally. As well it contains a little part of the input and results of the model.
+
+# here are few results of our work
 
 
 
