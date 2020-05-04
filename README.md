@@ -19,6 +19,8 @@ We would love to see your results under #new_gan_art or you can share your outpu
   https://github.com/eweeels
 
   https://github.com/bunczii
+  
+  https://github.com/Zelferr
 
 
 
