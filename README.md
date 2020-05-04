@@ -6,7 +6,8 @@ This repository contains sample code which includes resizing of the pictures to 
 You can view “GAN_new_renaissance_art” directly on github, or clone the repository, install the dependencies listed and play with code locally. As well it contains a little part of the input and results of the model.
 
 ### here are few results of our work (epoch 9400)
-![](https://raw.githubusercontent.com/RoRaKa29/GAN_new_renaissance_art/master/trained-94.png)
+![image](https://user-images.githubusercontent.com/59648881/81001529-281cff80-8e48-11ea-842a-0b7cda5ef335.png)
+
 
 
 
